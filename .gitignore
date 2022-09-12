@@ -127,5 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-./class_based_views/.idea/
-.idea
+idea
